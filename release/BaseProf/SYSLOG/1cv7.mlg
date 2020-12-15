@@ -66,3 +66,8 @@
 20201215;16:40:40;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
 20201215;16:41:21;;E;Sys;CloseSession;0;;;
 20201215;16:41:27;;C;Sys;CloseSession;0;;;
+20201215;17:27:25;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
+20201215;17:37:51;;C;Restruct;RestructSaveMD;3;;;
+20201215;17:37:53;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201215;17:39:15;;E;Sys;CloseSession;0;;;
+20201215;17:39:17;;C;Sys;CloseSession;0;;;

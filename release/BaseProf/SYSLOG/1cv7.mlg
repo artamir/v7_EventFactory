@@ -71,3 +71,17 @@
 20201215;17:37:53;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
 20201215;17:39:15;;E;Sys;CloseSession;0;;;
 20201215;17:39:17;;C;Sys;CloseSession;0;;;
+20201215;17:58:18;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
+20201215;17:59:04;;C;Restruct;RestructSaveMD;3;;;
+20201215;17:59:06;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201215;18:01:07;;E;Sys;CloseSession;0;;;
+20201215;18:01:08;;C;Restruct;RestructSaveMD;3;;;
+20201215;18:01:10;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201215;18:02:09;;E;Sys;CloseSession;0;;;
+20201215;18:02:10;;C;Restruct;RestructSaveMD;3;;;
+20201215;18:02:16;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201215;18:04:48;;E;Sys;CloseSession;0;;;
+20201215;18:04:49;;C;Restruct;RestructSaveMD;3;;;
+20201215;18:05:30;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201215;18:07:18;;E;Sys;CloseSession;0;;;
+20201215;18:07:21;;C;Sys;CloseSession;0;;;

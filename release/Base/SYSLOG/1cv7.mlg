@@ -1,0 +1,6 @@
+20201215;15:56:21;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
+20201215;15:57:27;;C;Restruct;RestructStart;1;;;
+20201215;15:57:27;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20201215;15:57:32;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20201215;15:57:33;;C;Restruct;RestructCopy;1;;;
+20201215;15:57:33;;C;Restruct;RestructAcptEnd;1;;;

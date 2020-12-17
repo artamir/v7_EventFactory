@@ -141,3 +141,10 @@
 20201216;18:06:04;;C;Restruct;RestructSaveMD;3;;;
 20201216;18:23:24;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
 20201216;18:23:44;;C;Sys;CloseSession;0;;;
+20201217;11:32:40;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
+20201217;11:35:54;;C;Restruct;RestructSaveMD;3;;;
+20201217;11:39:37;;C;Restruct;RestructSaveMD;3;;;
+20201217;11:39:39;;E;Sys;OpenSession;0;Компьютер FISCENCO(m);;
+20201217;11:50:43;;E;Sys;CloseSession;0;;;
+20201217;11:50:43;;C;Restruct;RestructSaveMD;3;;;
+20201217;11:51:12;;C;Sys;CloseSession;0;;;

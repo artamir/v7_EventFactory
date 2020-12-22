@@ -1,0 +1,12 @@
+
+// Классы системы FuncTest
+//#include FuncTest_Classes\functest.prm
+
+// Юнит-тесты системы FuncTest
+//#include FuncTest_UnitTests\defcls.prm
+
+// Классы системы юнит-тестирования
+//#include FuncTest_Classes\UnitTests\defcls.prm
+
+// Юнит-тесты системы юнит-тестирования
+//#include FuncTest_UnitTests\UnitTest\defcls.prm

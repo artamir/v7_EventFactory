@@ -141,3 +141,7 @@
 20201216;18:06:04;;C;Restruct;RestructSaveMD;3;;;
 20201216;18:23:24;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер FISCENCO(m);;
 20201216;18:23:44;;C;Sys;CloseSession;0;;;
+20201216;22:25:13;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер TOC-ПК(m);;
+20201217;11:32:04;;C;Sys;CloseSession;0;;;
+20201220;05:58:13;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер TOC-ПК(m);;
+20201220;06:03:49;;C;Sys;CloseSession;0;;;

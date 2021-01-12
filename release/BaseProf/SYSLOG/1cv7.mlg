@@ -174,3 +174,10 @@
 20201223;00:30:11;;E;Sys;OpenSession;0;Компьютер TOC-ПК(m);;
 20201223;00:31:07;;E;Sys;CloseSession;0;;;
 20201223;00:31:13;;C;Sys;CloseSession;0;;;
+20201230;15:42:29;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер TOC-ПК(m);;
+20201230;15:44:04;;C;Restruct;RestructStart;1;;;
+20201230;15:44:04;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20201230;15:44:04;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20201230;15:44:04;;C;Restruct;RestructCopy;1;;;
+20201230;15:44:04;;C;Restruct;RestructAcptEnd;1;;;
+20201230;15:44:09;;C;Sys;CloseSession;0;;;
